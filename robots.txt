@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://msnecessary.github.io/aer-site/sitemap.xml
